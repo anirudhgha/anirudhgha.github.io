@@ -1389,7 +1389,7 @@ h3 {
   background-position: center center;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1067px) {
   /* line 17, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
   .slider_area .single_slider {
     height: auto;
@@ -1399,13 +1399,13 @@ h3 {
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 17, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
   .slider_area .single_slider {
-    height: 600px;
+    height: 100px;
   }
 }
 
-/* line 27, ../../Arafath/CL/Cl November/228. Resume-02/HTML/scss/_slider.scss */
+/* HEIGHT PADDING ABOVE TEXT AND IMAGE IN SLIDER */
 .slider_area .single_slider .slider_text {
-  padding: 303px 0;
+  padding: 253px 0;
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
